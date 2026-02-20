@@ -1,0 +1,12 @@
+.MuiGrid-root.box {
+  border: 1px solid blue;
+  margin: 0;
+  padding: 0;
+  height: 15px;
+  width: 15px;
+}
+
+.MuiGrid-root > div > .MuiSvgIcon-root.icon {
+  position: relative;
+  top: 18px;
+}
